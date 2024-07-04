@@ -1,1 +1,1 @@
-export const server = "https://chatapplication-zh1d.onrender.com";
+export const server = "https://chatting-application-tnqd.onrender.com";
